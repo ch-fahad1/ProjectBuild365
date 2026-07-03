@@ -1,0 +1,6 @@
+num1=int(input("Enter first Numbers :"))
+num2=int(input("Enter seconde Numbers: "))
+print("Total Sum is= ",num1+num2)
+print("Total Difference is= ",num1-num2)
+print("Product of These two numbers are: ",num1*num2)
+print("Division is= ",num1/num2)
