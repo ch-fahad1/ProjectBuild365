@@ -27,17 +27,6 @@
 
 ### Bank Management System
 
-### Features
-
-- Create Account
-- Deposit Money
-- Withdraw Money
-- Check Balance
-- Input Validation
-- File Storage
-
----
-
 ## 🎯 What I Learned
 
 Today I learned how to handle errors gracefully using exception handling. I also built a Bank Management System that combines functions, file handling, and exception handling.
